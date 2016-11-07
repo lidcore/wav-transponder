@@ -1,0 +1,7 @@
+.*sw*
+*.cm*
+*.o
+.depend
+wav-transponder
+.DS_Store
+.env
